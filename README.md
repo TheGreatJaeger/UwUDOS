@@ -1,5 +1,11 @@
 # UwUDOS: the worst operating system ever created (or is it?)
 
+# Progress
+- File System (Almost Done)
+- Shell (Almost Done)
+- GUI (Incomplete)
+- Networking (Incomplete)
+
 ## The premise:
 - high performance on low-end hardware
 - the user has ring 0 permissions by default
