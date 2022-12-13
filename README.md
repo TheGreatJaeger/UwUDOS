@@ -1,7 +1,7 @@
 # UwUDOS: the worst operating system ever created (or is it?)
 
 # Progress
-- File System (Almost Done)
+- File System (Pretty much done may add more later)
 - Shell (Almost Done)
 - GUI (Incomplete)
 - Networking (Incomplete)
